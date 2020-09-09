@@ -9,13 +9,14 @@
 title: Daniel Fajardo Valenti's Blog
 email: dfv78@msn.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Some ideas about Cloud Computing.
+  Welcome to my Blog! I'm a Cloud Solutions Architect and the purpose of this blog is to share information about Cloud Computing and Microsoft Azure.
+  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danielfv.com" # the base hostname & protocol for your site
 twitter_username: dfv78
-github_username:  dfv78
+github_username:  daniel-fv
 
 # Build settings
 markdown: kramdown
@@ -27,4 +28,4 @@ kramdown:
   input: GFM
 
 # Theme
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
