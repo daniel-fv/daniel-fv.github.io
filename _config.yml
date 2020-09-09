@@ -28,3 +28,5 @@ kramdown:
 
 # Theme
 # theme: jekyll-theme-cayman
+
+theme: jekyll-theme-slate
