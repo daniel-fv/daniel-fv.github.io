@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Daniel Fajardo Valenti profile picture](/static/daniel-fajardo-valenti.png)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! I'm Daniel and I'm an Azure Cloud Solutions Architect.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I've had more than 15 years working in the telecommunications industry and as a Linux Systems Administrator working with open source technologies.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+With experience in networking, wireless networks, and cloud solutions, my goal is to discover new technologies that will allow companies to improve their overall productivity and operational efficiency.
+

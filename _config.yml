@@ -9,8 +9,7 @@
 title: Daniel Fajardo Valenti's Blog
 email: dfv78@msn.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some ideas about Cloud Computing.
-  Welcome to my Blog! I'm a Cloud Solutions Architect and the purpose of this blog is to share information about Cloud Computing and Microsoft Azure.
+  Welcome to my Blog! I'm an Azure Cloud Solutions Architect and the purpose of this blog is to share information about Cloud Computing and Microsoft Azure.
   
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,4 +27,4 @@ kramdown:
   input: GFM
 
 # Theme
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
