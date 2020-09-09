@@ -11,3 +11,5 @@ I've had more than 15 years working in the telecommunications industry and as a 
 
 With experience in networking, wireless networks, and cloud solutions, my goal is to discover new technologies that will allow companies to improve their overall productivity and operational efficiency.
 
+The purpose of this blog is to share information on my journey to Cloud Computing and Microsoft Azure.
+
