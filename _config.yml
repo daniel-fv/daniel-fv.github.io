@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to my Blog! I'm an Azure Cloud Solutions Architect and the purpose of this blog is to share information about Cloud Computing and Microsoft Azure.
   
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daniel-fv.github.io" # the base hostname & protocol for your site
 twitter_username: dfv78
 github_username:  daniel-fv
