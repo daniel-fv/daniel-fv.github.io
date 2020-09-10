@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://danielfv.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: dfv78
 github_username:  daniel-fv
 
@@ -27,6 +27,4 @@ kramdown:
   input: GFM
 
 # Theme
-# theme: jekyll-theme-cayman
-
 theme: jekyll-theme-minimal
