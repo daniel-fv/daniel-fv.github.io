@@ -27,6 +27,4 @@ kramdown:
   input: GFM
 
 # Theme
-# theme: jekyll-theme-cayman
-
 theme: jekyll-theme-minimal
