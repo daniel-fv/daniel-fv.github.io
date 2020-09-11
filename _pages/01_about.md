@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Daniel Fajardo Valenti profile picture](/static/daniel-fajardo-valenti.png)
+![Daniel Fajardo Valenti profile picture](/assets/daniel-fajardo-valenti.png)
 
 Hi! I'm Daniel and I'm an Azure Cloud Solutions Architect.
 
