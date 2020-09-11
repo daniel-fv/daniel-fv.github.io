@@ -27,4 +27,4 @@ kramdown:
   input: GFM
 
 # Theme
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
