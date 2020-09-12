@@ -24,8 +24,8 @@ description              : "Thoughs and ideas about Cloud Computing"
 url                      : "https://daniel-fv.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel-fv/danielfv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/cloud-computing-banner.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/cloud-icon-88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/images/cloud-computing-banner.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/images/cloud-icon-88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Cloud Computing Blog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ facebook:
   username               : "daniel.fajardo.valenti"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/cloud-computing-banner.png" # Open Graph/Twitter default site image
+og_image                 : "/images/cloud-computing-banner.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Fajardo Valenti"
-  avatar           : "/assets/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cloud Engineer with experience as a Linux sysadmin and as a network administrator."
   location         : "Nicaragua"
   email            : "dfv78@msn.com"
