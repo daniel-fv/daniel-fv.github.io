@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -75,13 +75,16 @@ facebook:
   username               : "daniel.fajardo.valenti"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/cloud-computing-banner.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Daniel Fajardo Valenti" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/dfv78"
+    - "https://facebook.com/daniel.fajardo.valenti"
+    - "https://www.linkedin.com/in/danielfajardovalenti"
 
 # Analytics
 analytics:
@@ -95,42 +98,41 @@ analytics:
 author:
   name             : "Daniel Fajardo Valenti"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " Azure Cloud Solutions Architect and the purpose of this blog is to share information about Cloud Computing and Microsoft Azure.
-"
+  bio              : "Cloud Engineer with experience as a Linux sysadmin and as a network administrator."
   location         : "Nicaragua"
   email            : "dfv78@msn.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dfv78@msn.com"
+      #url: "mailto:dfv78@msn.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://danielfv.com"
+      #url: "https://danielfv.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dfv78"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/daniel.fajardo.valenti"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/daniel-fv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/dfv78"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/dfv78"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/daniel-fv"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -280,3 +282,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_dates: true
+      read_time: true
