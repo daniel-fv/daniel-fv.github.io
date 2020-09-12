@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Fajardo Valenti"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cloud Engineer with experience as a Linux sysadmin and as a network administrator."
   location         : "Nicaragua"
   email            : "dfv78@msn.com"
