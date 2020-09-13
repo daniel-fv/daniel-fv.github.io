@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/daniel-fajardo-valenti.png"
+    image: "/images/daniel-fajardo-valenti_med.png"
+author_profile: false
 ---
 
 I'm a Cloud Engineer experienced with Linux systems and networking administration.
