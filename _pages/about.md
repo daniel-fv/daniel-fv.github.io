@@ -6,6 +6,7 @@ header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: true
 ---
+Welcome to my Cloud Computing Blog!
 
 I'm a Cloud Engineer experienced with Linux systems and networking administration.
 
