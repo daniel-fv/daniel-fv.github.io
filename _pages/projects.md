@@ -1,4 +1,5 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Project Posts by
+title: "Project Posts by tag"
+---

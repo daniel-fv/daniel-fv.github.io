@@ -4,7 +4,7 @@ permalink: /about/
 header:
     #image: "/images/daniel-fajardo-valenti_med.png"
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: false
+author_profile: true
 ---
 
 I'm a Cloud Engineer experienced with Linux systems and networking administration.
