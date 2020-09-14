@@ -5,7 +5,7 @@ permalink: /about/
 header:
     #image: "/images/daniel-fajardo-valenti_med.png"
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: false
+author_profile: true
 ---
 ![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
 Welcome to my Cloud Computing Blog!
