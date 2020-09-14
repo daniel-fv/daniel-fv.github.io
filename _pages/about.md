@@ -14,7 +14,4 @@ I specialize in Microsoft Azure and I'm certified as **Azure Solutions Architect
 
 The purpose of this blog is to share information about my journey with cloud computing and specially documenting my pesonal experience using Azure.
 
-![Azure Solutions Architect Expert logo](/images/azure-solutions-architect-expert-150.png) ![Azure Solutions Administrator Associate logo](/images/azure-administrator-associate-150.png)
-
-
 ![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
