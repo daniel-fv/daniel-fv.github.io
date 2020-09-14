@@ -6,6 +6,9 @@ header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: true
 ---
+
+![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
+
 Welcome to my Cloud Computing Blog!
 
 I'm a Cloud Engineer experienced with Linux systems and networking administration.
@@ -14,4 +17,3 @@ I specialize in Microsoft Azure and I'm certified as **Azure Solutions Architect
 
 The purpose of this blog is to share information about my journey with cloud computing and specially documenting my pesonal experience using Azure.
 
-![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
