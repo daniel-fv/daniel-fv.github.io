@@ -5,6 +5,14 @@ header:
     #image: "/images/daniel-fajardo-valenti_med.png"
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: true
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 ---
 Welcome to my Cloud Computing Blog!
 
