@@ -7,12 +7,10 @@ header:
 author_profile: true
 
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  - image: /images/azure-solutions-architect-expert-150.png
+    image_alt: "Azure Solutions Architect Expert logo"
+  - image: /images/azure-administrator-associate-150.png
+    image_alt: "Azure Solutions Administrator Associate logo"
 ---
 Welcome to my Cloud Computing Blog!
 
@@ -21,3 +19,5 @@ I'm a Cloud Engineer experienced with Linux systems and networking administratio
 I specialize in Microsoft Azure and I'm certified as **Azure Solutions Architect Expert** and **Azure Administrator**. I love working on projects together, so feel free to reach out for collaboration!
 
 The purpose of this blog is to share information about my journey with cloud computing and specially documenting my pesonal experience using Azure.
+
+![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
