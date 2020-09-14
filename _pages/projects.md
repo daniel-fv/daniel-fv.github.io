@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: categories
 permalink: /projects/
-title: "Project Posts by Tags"
+title: "Posts by Category"
+collection: projects
 ---
