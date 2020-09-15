@@ -49,7 +49,12 @@ From our Windows Server 2008 VM in Azure we can now access our local drive to co
 
 #### Import SQL Server 2000 backup to SQL Server 2008
 1. For the actual importing we'll use SQL Server Management Studio (SSMS) according to these instructions: <https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms>
-2. We launch SSMS 2008 from our VM running SQL Server 2008
-   ![SQL Server Management Studio](..images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db.png)
+2. We launch SSMS 2008 from our VM running SQL Server 2008:
+   ![SQL Server Management Studio](../images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db.png)
+3. Right click Databases and select **Restore Database**:
+   ![SQL Server Management Studio restore database](../images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db-2.png)
    
+
+
+
 
