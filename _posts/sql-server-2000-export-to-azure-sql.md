@@ -7,10 +7,12 @@ The goal is to upgrade a Microsoft SQL Server 2000 to Azure SQL Database.
 
 Migrating to Azure SQL Database directly from SQL Server using the *Azure Database Migration Service* requires at least SQL Server 2005. We need to upgrade our database to a newer version. In this example I chose to upgrade to SQL Server 2008.
 
-## Upgrade SQL Server 2000 to 2008
+# Upgrade SQL Server 2000 to 2008
 
-### Pre migration steps - Upgrade Advisor
-The first thing we must do is to check weather
+## Pre migration steps - Upgrade Advisor
+The first thing we must do is to check weather 
+
+The SQL Server 2000 must have installed SP4. If it's not installed we need to install it first.
 
 1. Download and install the Microsoft SQL Server 2008 Upgrade Advisor in **same server** where the SQL Server 2000 is installed.
   <https://www.microsoft.com/en-us/download/details.aspx?id=11455>
@@ -28,11 +30,11 @@ The first thing we must do is to check weather
 
 Once you fix the warnings or at least you are aware of the features you may lose in SQL Server 2008 the process of migration begins.
 
-### Make a backup of the SQL Server 2000 database
+## Make a backup of the SQL Server 2000 database
 Find url----
 
-### Import SQL Server 2000 backup to SQL Server 2008
-#### Create interim SQL server 2008 in Azure
+## Import SQL Server 2000 backup to SQL Server 2008
+### Create interim SQL server 2008 in Azure
 For the interim SQL server 2008 DB we'll create a VM in Azure.
 
 We'll be using the image in Azure for SQL Server 2008 R2 that comes in Windows Server 2008 R2.
@@ -47,14 +49,29 @@ Now, we need to transfer the SQL Server 2000 backup to the VM in Azure. One easy
 From our Windows Server 2008 VM in Azure we can now access our local drive to copy the backup:
 ![RDP access C drive](../images/sql-server-2000-export-to-azure-sql/rdp-access-local-resources-2.png)
 
-#### Import SQL Server 2000 backup to SQL Server 2008
+### Import SQL Server 2000 backup to SQL Server 2008
 1. For the actual importing we'll use SQL Server Management Studio (SSMS) according to these instructions: <https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms>
 2. We launch SSMS 2008 from our VM running SQL Server 2008:
    ![SQL Server Management Studio](../images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db.png)
 3. Right click Databases and select **Restore Database**:
    ![SQL Server Management Studio restore database](../images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db-2.png)
-   
+4. Select backup:
+![SQL Server Management Studio select backup](../images/sql-server-2000-export-to-azure-sql/ssms-2008-import-db-3.png)
+5. Select destination for restore:
+![SQL Server Management Studio backup](../images/sql-sql-server-2000-export-to-azure-sql/../sql-server-2000-export-to-azure-sql/ssms-2008-import-db-4.png)
+Once that finishes we'll see a message saying that the import was successful. 
+6. I won't cover it in detail but if you also need to copy the database users and SQL Server Agent jobs you can do it the following through scripts you can find on the internet or using the following:
+
+- Copy database users / logins
+  - SQL Server Integration Services using "Transfer Login task"
+  - SQL Server Management Studio, with "Copy Database Wizard"
+
+- Copy SQL Server Agent jobs
+  - You can migrate your SQL Server Agent jobs using Enterprise Manager 2000. You can find more detail in the documentation: [How to script jobs using Transact-SQL (Enterprise Manager)](http://msdn.microsoft.com/en-us/library/aa177024(SQL.80).aspx)
+
+# Migrate SQL Server 2008 to Azure SQL
+Now that we have our database upgraded to SQL Server 2008 we can [migrate using the Azure Database Migration Service](https://datamigration.microsoft.com/scenario/sql-to-azuresqldb?step=1).
 
 
-
-
+References:
+- [Migration SQL Server 2000 to SQL Server 2008](https://docs.microsoft.com/en-us/archive/blogs/mdegre/migration-sql-server-2000-to-sql-server-2008)
