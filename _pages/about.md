@@ -9,7 +9,7 @@ author_profile: true
 ![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
 Welcome to my Cloud Computing Blog!
 
-I'm a Cloud Engineer experienced with Linux systems and networking administration.
+I'm a Cloud Architect experienced with Linux systems and networking administration.
 
 I specialize in Microsoft Azure and I'm certified as **Azure Solutions Architect Expert** and **Azure Administrator Associate**. I love working on projects together, so feel free to reach out for collaboration!
 
