@@ -21,8 +21,7 @@ Where:
 
 **C:\Users\myname\OneDrive\Documents\GitHub** - symbolic link destination
 
-
-
 ---
 Reference:
-- https://www.techrepublic.com/blog/windows-and-office/be-more-efficient-and-better-organized-with-the-mklink-symbolic-link-tool/
+
+- <https://www.techrepublic.com/blog/windows-and-office/be-more-efficient-and-better-organized-with-the-mklink-symbolic-link-tool/>
