@@ -15,7 +15,7 @@ In this example I want to easily change the directory to *C:\Github* while actua
 
 Where:
 
-**/D** - directory
+**/D** - create symbolic link to directory option
 
 **C:\GitHub** - symbolic link
 
