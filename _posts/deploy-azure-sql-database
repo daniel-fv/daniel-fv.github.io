@@ -1,0 +1,6 @@
+
+
+
+use sampledb;
+create user newuser with password = 'mycomplexpassword'
+Alter role [dbmanager] add member estrellarojauser
