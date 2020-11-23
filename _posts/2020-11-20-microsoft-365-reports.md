@@ -9,7 +9,6 @@ Microsoft 365 security and compliance reports are split across four categories. 
 2. Data Loss Prevention reports
 3. Protection reports
 4. Rules reports
-5. Metrics
 
 To view reports in the [Security and Compliance](https://protection.office.com) center you need the following permissions:
 - **Security Reader Role in Exchange**. Assigned by default to the Organization Management and Security Reader role groups.
@@ -108,7 +107,7 @@ More info:
 - Microsoft Docs : [View mail flow reports](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/view-mail-flow-reports?view=o365-worldwide)
 
 ----
-## 5- Microsoft 365 Metrics
+# Microsoft 365 Metrics
 
 Activity reports allow you to view how users are using Microsoft 365 services. You can view reports over periods of 7 days, 30 days, 90 days and 180 days. Reports are not generated immediately, but become available after 48 hours.
 
