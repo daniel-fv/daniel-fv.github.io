@@ -24,6 +24,8 @@ View user and admin activity related to **email, groups, documents, permissions,
 
 Go directly to the [Office 365 Audit Log report](https://protection.office.com/unifiedauditlog).
 
+Note: As of November 2020, this report will be available in the [Compliance Center](https://compliance.microsoft.com/auditlogsearch)
+
 [![Office 365 Audit Log report](../images/microsoft-365-reports-metrics/office-365-audit-log-report.png)](
 https://protection.office.com/unifiedauditlog)
 
@@ -59,6 +61,7 @@ First, go to the [Security blade](https://portal.azure.com/#blade/Microsoft_AAD_
 [![Azure Active Directory Security Blade](../images/microsoft-365-reports-metrics/azure-ad-security-blade.png)](https://portal.azure.com/#blade/Microsoft_AAD_IAM/SecurityMenuBlade/GettingStarted)
 
 Then, under **Monitoring** you will find the risky users and sign-ins.
+
 ![Azure Active Directory risky users](../images/microsoft-365-reports-metrics/azure-ad-risky-users.png)
 
 
