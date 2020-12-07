@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Migration"
+title: "Microsoft 365 users, data, mailboxes migration"
 date: 2020-11-23
 ---
 
@@ -154,5 +154,51 @@ Steps:
 For more information: [What you need to know about migrating your IMAP mailboxes to Microsoft 365](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)
 
 
+# Plan migration of on-premises users and groups
+Migration is different to hybrid coexistence. 
 
+Decide if you need a particular user account to be moved to Microsoft 365:
+- **Is the user account still active?** There is no reason to migrate inactive user accounts.
+- **Should the account be migrated to Microsoft 365?** Service or administrative accounts for specific on-premises services that will not be migrated to Microsoft 365 are unlikely to be required in Microsoft 365.
 
+## Bulk user import process
+If you are planning to *completely migrate to Azure AD* as the primary identity provider and to decommission the on-premises Active Directory.
+
+This process allows you to import a list of users from a formatted CSV file into Microsoft 365. This CSV file must have the following fields in the first row:
+- User Name
+- First Name
+- Last Name
+- Display Name
+- Job Title
+- Department
+- Office Number
+- Office Phone
+- Mobile Phone
+- Fax
+- Address
+- City
+- State
+- Zip
+- Country
+
+You upload this CSV file using the Microsoft 365 Admin Center. On the Users blade and then selecting the *Import Multiple Users* option.
+
+Note:
+Use the bulk import process when you want to move a large number of users. If you are migrating only a small number of users, it may be simpler to manually create those users using the Microsoft 365 administration tools.
+
+## Understanding Office 365 groups
+If you are planning to decommission the on-premises directory, the Active Directory group scope (domain local, domain global, and universal) is not relevant because we do not care whether a group is visible in other domains in an Active Directory forest as we are retiring the local Active Directory forest.
+
+Office 365 groups allow us to set up a collection of resources that a set of users can share. This includes: 
+- A shared calendar.
+- SharePoint Online document library.
+- Shared Exchange Online mailbox.
+- Teams group chat.
+
+Three methods through which Office 365 groups can be provisioned:
+1. **Open**: Allows Microsoft 365 users to create their own groups as needed.
+2. **IT-led**: Users request a group from IT.
+3. **Controlled**: Group creation is limited to users that have been delegated the group creation role.
+
+## Synchronize users and groups with Azure AD Connect
+You can also use Azure AD Connect to synchronize accounts to Azure AD and then decommission your on-premises environment.
