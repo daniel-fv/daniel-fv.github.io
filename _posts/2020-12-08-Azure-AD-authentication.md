@@ -4,7 +4,7 @@ date: 2020-12-08
 ---
 Options for authenticating users with Azure Active Directory synchronized with an on-premises Active Directory using AD Connect.
 
-# Password Hash Synchronization
+# Password hash synchronization
 Synchronizes a hash of the user's on-premises password with Azure AD. Azure AD has a copy of the password hashes (encrypted passwords), actual passwords are never sent to Azure AD and are not stored in Azure AD.
 
 When the user authenticates to Azure AD, the submitted password is hashed using the same process and if the hashes match, the user is authenticated.
