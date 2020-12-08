@@ -70,7 +70,7 @@ We can also enable **all four options** and have for signing in pass-through aut
 
 ----
 More information:
-- https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-user-signin
-- https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn
+- [https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-user-signin](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-user-signin)
+- [https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn)
 
 
