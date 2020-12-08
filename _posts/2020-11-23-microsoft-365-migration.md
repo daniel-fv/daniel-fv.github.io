@@ -159,7 +159,7 @@ Migration is different to hybrid coexistence.
 
 Decide if you need a particular user account to be moved to Microsoft 365:
 - **Is the user account still active?** There is no reason to migrate inactive user accounts.
-- **Should the account be migrated to Microsoft 365?** Service or administrative accounts for specific on-premises services that will not be migrated to Microsoft 365 are unlikely to be required in Microsoft 365.
+- **Should the account be migrated to Microsoft 365?** Service or administrative accounts for specific on-premises services that will not be migrated to Microsoft 365 are unlikely to be required in Microsoft 365. For example: accounts used for management of an on-premises SQL server database or other workloads.
 
 ## Bulk user import process
 If you are planning to *completely migrate to Azure AD* as the primary identity provider and to decommission the on-premises Active Directory.
@@ -202,3 +202,7 @@ Three methods through which Office 365 groups can be provisioned:
 
 ## Synchronize users and groups with Azure AD Connect
 You can also use Azure AD Connect to synchronize accounts to Azure AD and then decommission your on-premises environment.
+
+In this scenario we need to evaluate which identities we will replicate doing an audit of all the objects present on the on-premises Active Directory and determine if every on-premises identity needs to be present in the Azure Active Directory.
+
+We also could take a phased approach and migrate small groups of users to Microsoft 365 rather than every user at once.
