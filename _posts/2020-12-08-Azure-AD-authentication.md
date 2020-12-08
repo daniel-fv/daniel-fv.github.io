@@ -18,7 +18,7 @@ Allows users to change their passwords in the cloud and have the changed passwor
 
 **Password Hash Synchronization works like this:**
 
-<img src=https://docs.microsoft.com/en-us/azure/active-directory/hybrid/media/plan-connect-user-signin/passwordhash.png width="600">
+<img src="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/media/plan-connect-user-signin/passwordhash.png" width="600">
 
 -----
 # Pass-through authentication
