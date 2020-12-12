@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daniel Fajardo Valenti"
 description              : "Thoughs and ideas about Cloud Computing"
-url                      : "https://daniel-fv.github.io"
+url                      : "https://danielfajardovalenti.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel-fv/danielfv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/cloud-computing-banner.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
