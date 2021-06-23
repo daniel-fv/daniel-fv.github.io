@@ -6,3 +6,9 @@ date: 2021-06-22
 ---
 
 Using AzCopy you can copy files from Azure Storage to
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+azcopy login 
+
+copy "https : //STORAGEACCOUNT.blob.core.windows.net/CONTAINER/FOLDER?sv=201[SAS TOKEN REDACTED]" "\\Tenant.sharepoint.com@SSL\DavWWWRoot\sites\SITENAME\LIBRARY" --recursive --overwrite=false --log-level ERROR
