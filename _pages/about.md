@@ -11,9 +11,11 @@ Hi! I'm **Daniel**. I'm a Cloud Engineer obsessed with all things Azure.
 
 ![Daniel Fajardo Valenti picture](/images/daniel-fajardo-valenti_med.png)
 
-I started out as a Systems Engineer and now I have more than 15 years working in the telecommunications industry and as a Linux Systems Administrator.
+I graduated from college as a Systems Engineer but now I have more than 15 years working in the telecommunications industry and as a Linux Systems Administrator.
 
-I specialize in Microsoft Azure being certified as Azure Solutions Architect Expert and Azure Administrator Associate. 
+Being part of a telecom company made me learn about networking, wireless networks and to manage Linux servers.
+
+Right now I specialize in Microsoft Azure being certified as Azure Solutions Architect Expert and Azure Administrator Associate. 
 
 I love working on projects together, so feel free to reach out for collaboration!
 
