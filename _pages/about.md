@@ -26,4 +26,4 @@ Learning Azure SQL databases, DevOps
 
 When I'm not working in Azure I like to read
 
-While I'm not a professinal developer I love programming, ever since I started to learn about computers in 1990 with BASIC.
+While I'm not a professinal developer I love programming, ever since I started to learn about computers in 1990 with BASIC when I was growing up. I love creating stuff in  computers
