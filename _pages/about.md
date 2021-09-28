@@ -13,11 +13,11 @@ author_profile: true
 
 Hi! I'm <strong>Daniel</strong>. 
 
-I'm a Systems Engineer turned Cloud Engineer obsessed with all things cloud. 
+I'm a Systems Engineer turned Cloud Engineer obsessed with all things cloud.
 </div>
 
 
-While I specialize in Microsoft Azure I love learning about new things everyday.
+While I currently specialize in Microsoft Azure I love learning new things everyday. 
 
 I love working on projects together, so feel free to reach out for collaboration!
 
