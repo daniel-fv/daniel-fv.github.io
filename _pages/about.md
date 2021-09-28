@@ -13,7 +13,7 @@ author_profile: true
 
 Hi! I'm <strong>Daniel</strong>. 
 
-I'm a Systems Engineer turned Cloud Engineer obsessed with all things cloud.
+I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 </div>
 
 
@@ -22,7 +22,7 @@ While I currently specialize in Microsoft Azure I love learning new things every
 I love working on projects together, so feel free to reach out for collaboration!
 
 ---
-## How I became to be
+## Who I am
 I love creating stuff in computers. Although I'm not a professinal developer, I first fell in love with programming ever since I started learning BASIC in 1990 when I was growing up. I loved the way it allowed me to unleash my creativity while trying to solve problems using technology.
 
 I graduated from college as a System Engineer but ever since then I have been working in the telecommunications industry as a Project Manager. Being part of a telecom company made me learn about networking, wireless networks, manage Linux servers and now the cloud.
