@@ -69,6 +69,6 @@ I'm proud of my certifications, not because I got them but because I loved the j
 
 <br />
 
-If you reached all the way to end. Thanks for reading!
+If you made it this far. Thanks for reading!
 
 </div>
