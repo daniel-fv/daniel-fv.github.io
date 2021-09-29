@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Daniel Fajardo Valenti"
   avatar           : "/images/danielfv-profile.png" #/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cloud Engineer obsessed with building stuff on the cloud"
+  bio              : "Cloud Engineer obsessed with building stuff on the cloud."
   location         : "Nicaragua"
   email            : "cloud@danielfv.com"
   links:

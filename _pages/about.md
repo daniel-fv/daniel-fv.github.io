@@ -1,5 +1,5 @@
 ---
-#classes: wide
+classes: wide
 title: "About me"
 permalink: /about/
 header:
