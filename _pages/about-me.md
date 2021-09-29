@@ -1,7 +1,7 @@
 ---
-classes: wide
+#classes: wide
 title: "About me"
-permalink: /about-me/
+permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: false
