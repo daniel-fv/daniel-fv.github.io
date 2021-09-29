@@ -13,6 +13,8 @@ layout: wide
 
 Hi! I'm <strong>Daniel</strong>.
 
+</div>
+
 <br />
 
 I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
@@ -23,7 +25,7 @@ While I currently specialize in Microsoft Azure I love learning new things every
 
 I love working on projects together, so feel free to reach out for collaboration!
 
-</div>
+
 
 ## Who I am
 From time to time I work with:
