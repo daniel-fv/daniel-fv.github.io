@@ -11,7 +11,7 @@ author_profile: true
 <div style="text-align: left">
 <img style="float:right" src="../images/danielfv-profile.png" width="200" />
 
-Hi! I'm <strong>Daniel</strong>. 
+Hi! I'm <strong>Daniel</strong>.
 
 I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 </div>
@@ -28,7 +28,7 @@ I love creating stuff in computers. Although I'm not a professinal developer, I 
 I graduated from college as a System Engineer but ever since then I have been working in the telecommunications industry as a Project Manager. Being part of a telecom company made me learn about networking, wireless networks, manage Linux servers and now the cloud.
 
 ## What I like to do
-When I'm not working in Azure I like to read. From the latest Stephen King novel to classical (and newer) sci-fi books, to new business management and personal development books.
+When I'm not working in Azure I like to read. From the latest Stephen King novel or classical (and newer) sci-fi books, to business management and personal development books.
 
 Hobbies:
 - Playing guitar
@@ -43,7 +43,7 @@ I've always enjoyed learning new things so I'm constantly trying to learn about 
 - Python
 - C#
   
-I'm proud of my certifications, not because I got them but because it took dedication, patience, discipline and it paid off with an end result.
+I'm proud of my certifications, not because I got them but because I loved the journey and they challenged me. Took a lot of dedication, commitment and patience.
 
 <div style="text-align: center">
 
