@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: single
 title: "About me"
 permalink: /about/
 header:
@@ -44,7 +44,7 @@ When I'm not working in Azure I like to read, from the latest Stephen King novel
 Hobbies:
 - Playing guitar
 - Listening to podcasts
-- Photography ([flickr.com/dfv78](http://flickr.com/dfv78))
+- Photography ([Flickr](http://flickr.com/dfv78))
 - Did I mention [I love reading](https://www.goodreads.com/review/list/4642546-daniel-fajardo-valenti?shelf=read)? 
 ## What I'm currently doing
 I've always enjoyed learning new things so I'm constantly trying to learn about a technology that's new to me:
