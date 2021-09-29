@@ -13,3 +13,4 @@ feature_row:
   title: "About me"
   #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+home.md
