@@ -12,12 +12,9 @@ author_profile: false
 <img style="float:right" src="../images/danielfv-profile.png" width="200px" />
 
 Hi! I'm <strong>Daniel</strong>.
-
 </div>
-
-
+<br />
 I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
-
 
 <br />
 While I currently specialize in Microsoft Azure I love learning new things everyday. 
