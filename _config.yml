@@ -133,7 +133,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/built_on_cloud"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin"
       url:  "https://www.linkedin.com/in/danielfajardovalenti"    
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
