@@ -1,6 +1,9 @@
 ---
 layout: splash
 permalink: / 
+clases: 
+    - landing
+  
 feature_row:
   - image_path: images\undraw_Profile_re_4a55.png
   alt: "placeholder image 1"
