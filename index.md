@@ -10,9 +10,9 @@ feature_row:
 
 {% include feature_row  %}
 
-<a src href="/about">
+<a href="/about">
 <figure>
-  <img src="/images/undraw_Profile_re_4a55.png" alt="About me" size="150px">
+  <img src="/images/undraw_Profile_re_4a55.png" alt="About me" width="150px">
   <figcaption>About me</figcaption>
 </figure>
 </a>
