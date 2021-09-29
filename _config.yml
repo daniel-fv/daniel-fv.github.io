@@ -30,9 +30,9 @@ masthead_title           : "Cloud Computing Blog" # overrides the website title 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : #"disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "danielfv" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"danielfv" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                :  "github-light" #(default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "dfv78"
+  username               : "build_on_cloud"
 facebook:
   username               : "daniel.fajardo.valenti"
   app_id                 :
@@ -82,7 +82,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "Daniel Fajardo Valenti" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/dfv78"
+    - "https://twitter.com/built_on_cloud"
     - "https://facebook.com/daniel.fajardo.valenti"
     - "https://www.linkedin.com/in/danielfajardovalenti"
 
@@ -97,10 +97,10 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Fajardo Valenti"
-  avatar           : "/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cloud Architect experienced in Linux and network administration. Certified Azure Solutions Architect Expert and Azure Administrator."
+  avatar           : "/images/danielfv-profile.png" #/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Cloud Engineer obsessed with building stuff on the cloud"
   location         : "Nicaragua"
-  email            : "dfv78@msn.com"
+  email            : "cloud@danielfv.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dfv78"
+      url: "https://twitter.com/built_on_cloud"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
