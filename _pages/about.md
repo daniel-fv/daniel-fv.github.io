@@ -15,7 +15,6 @@ Hi! I'm <strong>Daniel</strong>.
 
 </div>
 
-<br />
 
 I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 
