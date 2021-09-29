@@ -12,7 +12,7 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -26,7 +26,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel-fv/danielfv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/cloud-computing-banner.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/cloud-icon-88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Cloud Computing Blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Building stuff on the cloud" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,13 +104,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:dfv78@msn.com"
+      url: "mailto:cloud@danielfv.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://danielfv.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dfv78"
+      url: "https://twitter.com/built-on-cloud"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/daniel.fajardo.valenti"

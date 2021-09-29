@@ -1,10 +1,10 @@
 ---
 classes: wide
 title: "About me"
-permalink: /about/
+permalink: /about-me/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: true
+author_profile: false
 ---
 
 <div style="text-align: left">
