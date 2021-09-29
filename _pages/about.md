@@ -4,7 +4,7 @@ title: "About me"
 permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: false
+author_profile: true
 #layout: wide
 ---
 
