@@ -33,7 +33,7 @@ I graduated from college as a System Engineer but ever since then I have been wo
 
 ## What I like to do
 
-When I'm not working in Azure I like to read. From the latest Stephen King novel or classical (and newer) sci-fi books, to business management and personal development books.
+When I'm not working in Azure I like to read, from the latest Stephen King novel or classical (and newer) sci-fi books, to business management and personal development books.
 
 Hobbies:
 - Playing guitar
@@ -47,6 +47,7 @@ I've always enjoyed learning new things so I'm constantly trying to learn about 
 - DevOps
 - Python
 - C#
+- PowerShell
   
 I'm proud of my certifications, not because I got them but because I loved the journey and they challenged me. Took a lot of dedication, commitment and patience.
 
