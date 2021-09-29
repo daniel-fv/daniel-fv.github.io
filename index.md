@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 
 feature_row:
   - image_path: /images/undraw_Profile_re_4a55.png
@@ -7,11 +7,12 @@ feature_row:
   title: "About me"
   #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-index.md
 
-{% include feature_row type="center" %}
+{% include feature_row  %}
 
+<a href="/about">
 <figure>
   <img src="/images/undraw_Profile_re_4a55.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <figcaption>About me</figcaption>
 </figure>
+</a>
