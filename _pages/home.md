@@ -1,7 +1,7 @@
 ---
 layout: splash
-author_profile: true
 permalink: / 
+
 header:
     overlay_image: "/images/cloud-computing-banner-hand.jpg"
     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
