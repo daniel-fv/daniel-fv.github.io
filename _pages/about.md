@@ -5,7 +5,7 @@ permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: false
-layout: wide
+#layout: wide
 ---
 
 <div style="text-align: left">
