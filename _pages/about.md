@@ -1,10 +1,10 @@
 ---
-classes: single
+classes: wide
 title: "About me"
 permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: true
+author_profile: false
 #layout: wide
 ---
 
