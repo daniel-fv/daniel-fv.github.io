@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: single
 title: "About me"
 permalink: /about/
 header:
