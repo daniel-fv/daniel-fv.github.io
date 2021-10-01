@@ -97,7 +97,7 @@ analytics:
 author:
   name: "Daniel Fajardo Valenti"
   avatar: "/images/danielfv-profile.png" #/images/daniel-fajardo-valenti-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Microsoft Azure Cloud Engineer."
+  bio: "Microsoft Azure Cloud Engineer"
   location: "Nicaragua"
   email: "cloud@danielfv.com"
   links:
