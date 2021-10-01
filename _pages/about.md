@@ -5,6 +5,11 @@ permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: false
+gallery:
+  - url: /about
+    image_path: /images/undraw_Profile_re_4a55.png
+    alt: "About me"
+    title: "About me"
 ---
 
 <div style="text-align: left">
@@ -20,7 +25,7 @@ While I currently specialize in Microsoft Azure I love learning new things every
 
 I love working on projects together, so feel free to reach out for collaboration!
 
-
+{% include gallery  %}
 
 ## Who I am
 From time to time I work with:
