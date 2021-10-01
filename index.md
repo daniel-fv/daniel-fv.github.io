@@ -8,7 +8,7 @@ author_profile: false
 **Hi there** 👋
 
 <div style="text-align: left">
-<img style="float:left" src="images/danielfv-profile.png" width="200px" />
+<img style="float:left;padding-right:50px" src="images/danielfv-profile.png" width="200px" />
 
 I'm <strong>Daniel</strong>.
 </div>
