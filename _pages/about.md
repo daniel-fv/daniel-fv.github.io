@@ -64,5 +64,6 @@ I'm proud of my certifications, not because I got them but because I loved the j
 
 ![Daniel Fajardo Valenti Picture](/../images/daniel-fajardo-valenti_med.png)
 
+<div style="text-align:center">
 If you made it this far. Thanks for reading!
-
+</div>
