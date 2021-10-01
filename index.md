@@ -16,10 +16,10 @@ I'm <strong>Daniel</strong>.
 I'm a Cloud Engineer working with Microsoft Azure.
 </div>
 
-<br />
+<div style="block">
 - 🔭 I’m currently working on all things Azure 
 - 🌱 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
-
+</div>
 From time to time I work with:
 
 <img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />
