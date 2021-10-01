@@ -58,12 +58,9 @@ I'm proud of my certifications, not because I got them but because I loved the j
 </a>
 
 <br />
+</div>
 
-
-
-<br />
-<img src="../images/daniel-fajardo-valenti_med.png" width="500px" />
+![Daniel Fajardo Valenti Picture](/../images/daniel-fajardo-valenti_med.png)
 
 If you made it this far. Thanks for reading!
 
-</div>
