@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 
@@ -8,7 +8,7 @@ author_profile: true
 **Hi there** 👋
 
 <div style="text-align: left">
-<!--<img style="float:right" src="images/danielfv-profile.png" width="200px" /><-->
+<img style="float:left" src="images/danielfv-profile.png" width="200px" />
 
 I'm <strong>Daniel</strong>.
 </div>
