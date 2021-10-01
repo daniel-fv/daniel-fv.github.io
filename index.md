@@ -10,7 +10,7 @@ sidebar:
 
 **Hi there** 👋
 
-<img src="images/danielfv-profile.png" width="200px" />
+<!--<img src="images/danielfv-profile.png" width="200px" />-->
 
 I'm <strong>Daniel</strong> and I'm a Cloud Engineer working with Microsoft Azure.
 
