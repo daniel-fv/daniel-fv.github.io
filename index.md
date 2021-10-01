@@ -1,6 +1,9 @@
 ---
 layout: single
 author_profile: false
+sidebar:
+  - image: images/danielfv-profile.png
+    image_alt: "Daniel Fajardo Valenti picture"
 ---
 
 
