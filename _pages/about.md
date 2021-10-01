@@ -8,8 +8,8 @@ author_profile: true
 ---
 
 <div style="text-align: left">
+<img style="float:right" src="images/danielfv-profile.png" width="200px" />
 
-<img style="float:center" src="../images/daniel-fajardo-valenti_med.png" width="500px" />
 
 Hi! I'm <strong>Daniel</strong>.
 </div>
@@ -66,7 +66,7 @@ I'm proud of my certifications, not because I got them but because I loved the j
 
 
 <br />
-
+<img src="../images/daniel-fajardo-valenti_med.png" width="500px" />
 If you made it this far. Thanks for reading!
 
 </div>
