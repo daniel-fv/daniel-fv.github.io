@@ -18,9 +18,6 @@ I love learning new things everyday.
 
 I love working on projects together, so feel free to reach out for collaboration!
 
-- 🔭 I’m currently working on all things Azure 
-- 🌱 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
-
 From time to time I work with:
 
 <img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />

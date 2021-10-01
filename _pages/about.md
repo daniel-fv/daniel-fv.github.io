@@ -19,10 +19,6 @@ I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 <br />
 While I currently specialize in Microsoft Azure I love learning new things everyday. 
 
-<br />
-I love working on projects together, so feel free to reach out for collaboration!
-
-
 ## Who I am
 
 
