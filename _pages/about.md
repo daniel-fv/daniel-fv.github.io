@@ -4,28 +4,27 @@ title: "About me"
 permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
-author_profile: false
+author_profile: true
 ---
 
 <div style="text-align: left">
-<img style="float:right" src="../images/danielfv-profile.png" width="200px" />
+
+<img style="float:right" src="../images/daniel-fajardo-valenti_med.png" width="400px" />
 
 Hi! I'm <strong>Daniel</strong>.
 </div>
-<br />
+
 I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 
 <br />
 While I currently specialize in Microsoft Azure I love learning new things everyday. 
 
+<br />
 I love working on projects together, so feel free to reach out for collaboration!
 
 
 ## Who I am
-From time to time I work with:
 
-<img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />
-<img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
 
 I love creating stuff in computers. Although I'm not a professional developer, I first fell in love with programming ever since I started learning BASIC in 1990 when I was growing up. I loved the way it allowed me to unleash my creativity while trying to solve problems using technology.
 
@@ -64,7 +63,7 @@ I'm proud of my certifications, not because I got them but because I loved the j
 
 <br />
 
-<img src="../images/daniel-fajardo-valenti_med.png" title="Daniel Fajardo Valenti picture" width="450px" />
+
 
 <br />
 
