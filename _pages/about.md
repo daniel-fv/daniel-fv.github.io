@@ -3,12 +3,12 @@ classes: single
 title: "About me"
 permalink: /about/
 header:
-    image: "/images/cloud-computing-banner-hand.jpg"
+    image: /images/cloud-computing-banner-hand.jpg
 author_profile: false
 ---
 
 <div style="text-align: left">
-<img style="float:right" src="/images/danielfv-profile.png" width="200px" />
+<img style="float:right" src="../images/danielfv-profile.png" width="200px" />
 
 
 Hi! I'm <strong>Daniel</strong>.
@@ -18,6 +18,8 @@ I'm a Systems Engineer turned Cloud Engineer passionate with all things cloud.
 
 <br />
 While I currently specialize in Microsoft Azure I love learning new things everyday. 
+
+
 
 ## Who I am
 
