@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="text-align: left">
 
-<img style="float:right" src="../images/daniel-fajardo-valenti_med.png" width="400px" />
+<img style="float:center" src="../images/daniel-fajardo-valenti_med.png" width="500px" />
 
 Hi! I'm <strong>Daniel</strong>.
 </div>
