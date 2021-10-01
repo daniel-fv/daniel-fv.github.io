@@ -7,15 +7,13 @@ author_profile: false
 
 **Hi there** 👋
 
-<!--<div style="text-align: right"><-
-<img style="float:left;padding-right:50px" src="images/danielfv-profile.png" width="200px" />
-<-->
 <img src="images/danielfv-profile.png" width="200px" />
-I'm <strong>Daniel</strong>.
 
-I'm a Cloud Engineer working with Microsoft Azure.
-<!--></div><-->
+I'm <strong>Daniel</strong> and I'm a Cloud Engineer working with Microsoft Azure.
 
+I love learning new things everyday. 
+
+I love working on projects together, so feel free to reach out for collaboration!
 
 - 🔭 I’m currently working on all things Azure 
 - 🌱 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
