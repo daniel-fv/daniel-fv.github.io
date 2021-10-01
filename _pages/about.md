@@ -5,11 +5,6 @@ permalink: /about/
 header:
     image: "/images/cloud-computing-banner-hand.jpg"
 author_profile: false
-gallery:
-  - url: /about
-    image_path: /images/undraw_Profile_re_4a55.png
-    alt: "About me"
-    title: "About me"
 ---
 
 <div style="text-align: left">
@@ -25,7 +20,6 @@ While I currently specialize in Microsoft Azure I love learning new things every
 
 I love working on projects together, so feel free to reach out for collaboration!
 
-{% include gallery  %}
 
 ## Who I am
 From time to time I work with:
@@ -33,7 +27,7 @@ From time to time I work with:
 <img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />
 <img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
 
-I love creating stuff in computers. Although I'm not a professinal developer, I first fell in love with programming ever since I started learning BASIC in 1990 when I was growing up. I loved the way it allowed me to unleash my creativity while trying to solve problems using technology.
+I love creating stuff in computers. Although I'm not a professional developer, I first fell in love with programming ever since I started learning BASIC in 1990 when I was growing up. I loved the way it allowed me to unleash my creativity while trying to solve problems using technology.
 
 I graduated from college as a System Engineer but ever since then I have been working in the telecommunications industry as a Project Manager. Being part of a telecom company made me learn about networking, wireless networks, manage Linux servers and now the cloud.
 
