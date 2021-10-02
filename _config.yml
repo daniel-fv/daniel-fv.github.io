@@ -21,10 +21,10 @@ title_separator: "-"
 subtitle: "Building on the cloud"
 name: #"Daniel Fajardo Valenti"
 description: #"I build suff on the cloud"
-url: "https://danielfajardovalenti.com"
+url: "https://danielfv.com"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "daniel-fv/danielfv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/images/cloud-computing-banner-hand.jpg"
+teaser: "/images/building-on-the-cloud-header.png"
 logo: #"/images/cloud-icon-88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: #" " #"Building stuff on the cloud" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
