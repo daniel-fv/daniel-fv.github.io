@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Home"
-  #   url: /
+  - title: "Blog"
+    url: https://blog.danielfv.com
   - title: "Archive"
     url: /year-archive/
   - title: "About"

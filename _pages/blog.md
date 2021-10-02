@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: posts
 classes: wide
 title: "Posts by Year"
 permalink: /year-archive/
