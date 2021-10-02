@@ -3,7 +3,7 @@ main:
   # - title: "Home"
   #   url: /
   - title: "Blog"
-    url: https://blog.danielfv.com
+    url: /blog/
   - title: "About"
     url: /about/
   #  - title: "Projects"
