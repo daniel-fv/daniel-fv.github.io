@@ -5,7 +5,7 @@ sidebar:
   - image: images/danielfv-profile.png
     image_alt: "Daniel Fajardo Valenti picture"
 header:
-    image: /images/building-on-the-cloud.png
+    image: /images/building-on-the-cloud-header.png
 ---
 
 
