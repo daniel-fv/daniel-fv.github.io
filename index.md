@@ -7,6 +7,7 @@ sidebar:
 header:
     overlay_image: /images/building-on-the-cloud-header.png
     show_overlay_excerpt: false
+    tagline: ""
 ---
 
 
