@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 classes: wide
 title: "Blog"
 permalink: /blog/
