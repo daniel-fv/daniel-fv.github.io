@@ -2,10 +2,10 @@
 main:
   - title: "Blog"
     url: https://blog.danielfv.com
+  - title: "About me"
+    url: /about/
   - title: "Archive"
     url: /year-archive/
-  - title: "About"
-    url: /about/
   #  - title: "Projects"
   #    url: /projects/
   # - title: "Contact"
