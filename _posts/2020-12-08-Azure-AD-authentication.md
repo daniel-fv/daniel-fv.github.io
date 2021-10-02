@@ -1,7 +1,6 @@
 ---
 title: "Options for Azure Active Directory authentication"
 date: 2020-12-08
-toc: true
 ---
 Options for authenticating users with Azure Active Directory synchronized with an on-premises Active Directory using AD Connect.
 
