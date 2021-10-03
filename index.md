@@ -8,6 +8,7 @@ header:
     overlay_image: /images/building-on-the-cloud-header_low.png
     show_overlay_excerpt: true
     tagline: " "
+excerpt: ""
 ---
 
 
