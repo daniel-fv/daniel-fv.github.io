@@ -5,7 +5,7 @@ sidebar:
   - image: images/danielfv-profile.png
     image_alt: "Daniel Fajardo Valenti picture"
 header:
-    overlay_image: /images/building-on-the-cloud-header_low.png
+    overlay_image: /images/building-on-the-cloud-header-grad_l.png
     show_overlay_excerpt: true
     tagline: " "
     excerpt:  " "
