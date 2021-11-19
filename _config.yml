@@ -18,7 +18,7 @@ minimal_mistakes_skin: "contrast" #"default"  "air", "aqua", "contrast", "dark",
 locale: "en-US"
 title: "Daniel Fajardo Valenti"
 title_separator: "-"
-subtitle: "Building on the cloud"
+subtitle: "Building infrastructure on the cloud"
 name: #"Daniel Fajardo Valenti"
 description: #"I build suff on the cloud"
 url: "https://danielfv.com"
