@@ -82,7 +82,7 @@ social:
   type: # Person or Organization (defaults to Person)
   name: "Daniel Fajardo Valenti" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/built_on_cloud"
+    - "https://twitter.com/dfv78"
     - "https://facebook.com/daniel.fajardo.valenti"
     - "https://www.linkedin.com/in/danielfajardovalenti"
 
