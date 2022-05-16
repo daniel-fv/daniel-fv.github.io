@@ -142,7 +142,7 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"
       # url:
     - label: "Instagram"
