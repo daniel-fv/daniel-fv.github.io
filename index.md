@@ -32,8 +32,5 @@ From time to time I work with:
 <img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
 -->
 
-You can follow me here:
-<ul>
-	      <li><a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fab fa-brands fa-stack-overflow-square fa-2xl"></i></a> </li> 
-</ul>
+
 	
