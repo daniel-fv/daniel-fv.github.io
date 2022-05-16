@@ -26,7 +26,7 @@ I love working on projects together, so do not hesitate to reach out for collabo
 - 🔥 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
 
 
-You can follow me here: 
+You can also find me here: 
 <p>
 <a href="https://twitter.com/dfv78"><img src="https://img.icons8.com/color/50/twitter-squared.png" title="Twitter" /></a>
 <a href="https://www.linkedin.com/in/danielfajardovalenti"><img src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" title="LinkedIn" /></a>
