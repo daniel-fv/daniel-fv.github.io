@@ -32,4 +32,8 @@ From time to time I work with:
 <img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
 -->
 
+You can follow me here:
+<ul>
+	      <li><a href=""https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fa-brands fa-stack-overflow"></i></a> </li> 
+</ul>
 	  	
