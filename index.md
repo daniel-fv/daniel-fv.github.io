@@ -27,10 +27,13 @@ I love working on projects together, so do not hesitate to reach out for collabo
 
 
 You can follow me here: 
-
-<a href="https://github.com/daniel-fv"><img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" /> Github</a>
-<a href="https://twitter.com/dfv78"><img src="https://img.icons8.com/color/344/twitter--v1.png" title="Twitter" /> Twitter</a>
-
+<p>
+<a href="https://twitter.com/dfv78"><img src="https://img.icons8.com/color/50/twitter-squared.png" title="Twitter" /></a>
+<a href="https://www.linkedin.com/in/danielfajardovalenti"><img src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" title="LinkedIn" /></a>
+<a href="https://github.com/daniel-fv"><img src="https://img.icons8.com/material-rounded/50/github.png" title="Github" /></a>
+<a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><img src="https://img.icons8.com/color/50/4a90e2/stackoverflow.png" title="Stack Overflow"/></a>
+<a href="https://instagram/dfv78"><img src="https://img.icons8.com/color/50/instagram.png" title="Instagram"/></a>
+</p>
 
 
 	
