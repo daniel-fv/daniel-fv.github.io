@@ -25,12 +25,12 @@ I love working on projects together, so do not hesitate to reach out for collabo
 - 📘 Posting on my blog about Cloud Computing
 - 🔥 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
 
-<!--
-From time to time I work with:
 
-<img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />
-<img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
--->
+You can follow me here: 
+
+<a href="https://github.com/daniel-fv"><img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" /> Github</a>
+<a href="https://twitter.com/dfv78"><img src="https://img.icons8.com/color/344/twitter--v1.png" title="Twitter" /> Twitter</a>
+
 
 
 	
