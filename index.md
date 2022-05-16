@@ -25,9 +25,25 @@ I love working on projects together, so do not hesitate to reach out for collabo
 - 📘 Posting on my blog about Cloud Computing
 - 🔥 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
 
+<!--
 From time to time I work with:
 
 <img src="https://img.icons8.com/material-outlined/50/4a90e2/github.png" title="Github" />
 <img src="https://img.icons8.com/ios-glyphs/50/4a90e2/console.png" title="Bash scripting"/>
+-->
 
+You can find me here
+<html>
 
+	    <ul class="social-icons icon-circle list-unstyled list-inline"> 
+	   
+	      <li> <a href="#"><i class="fa fa-facebook"></i></a></li> 
+	      <li> <a href="#"><i class="fa fa-flickr"></i></a></li> 
+
+	      <li> <a href="#"><i class="fa fa-github"></i></a></li> 
+	      <li> <a href="#"><i class="fa fa-linkedin"></i></a></li> 
+	      <li> <a href="#"><i class="fa fa-stack-overflow"></i></a></li> 
+	      <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+	  	</ul>
+</html>	
+	  	
