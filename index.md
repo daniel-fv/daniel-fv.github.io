@@ -33,7 +33,7 @@ From time to time I work with:
 -->
 
 You can follow me here:
-<ul>
-	      <li><a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fa-brands fa-stack-overflow-square"></i> Stack Overflow</a> </li> 
-</ul>
+
+	      <p><a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fa-brands fa-stack-overflow-square fa-2xl"></i> Stack Overflow</a> </p> 
+
 	
