@@ -34,6 +34,6 @@ From time to time I work with:
 
 You can follow me here:
 
-	      <p><a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fa-brands fa-stack-overflow-square fa-2xl"></i> Stack Overflow</a> </p> 
+	      <p><a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><i class="fa-brands fa-stack-overflow-square fa-2xl"></i></a> </p> 
 
 	
