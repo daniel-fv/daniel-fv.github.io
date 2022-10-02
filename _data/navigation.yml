@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Archive"
     url: /year-archive/
+  - title: "Photography"
+    url: https://photos.danielfv.com
   #  - title: "Projects"
   #    url: /projects/
   # - title: "Contact"
