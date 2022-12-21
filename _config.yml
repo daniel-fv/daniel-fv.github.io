@@ -82,7 +82,7 @@ social:
   type: # Person or Organization (defaults to Person)
   name: "Daniel Fajardo Valenti" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/dfv78"
+    - "https://twitter.com/danielfv"
     - "https://facebook.com/daniel.fajardo.valenti"
     - "https://www.linkedin.com/in/danielfajardovalenti"
 
@@ -121,14 +121,14 @@ author:
       url: "https://github.com/daniel-fv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dfv78"
+      url: "https://instagram.com/danielfv"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/built_on_cloud"
+      url: "https://twitter.com/dfv78"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielfajardovalenti"
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dfv78"
+      url: "https://instagram.com/danielfv"
 
 # Reading Files
 include:

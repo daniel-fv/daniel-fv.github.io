@@ -23,7 +23,7 @@ I love working on projects together, so do not hesitate to reach out for collabo
 
 - 👨‍💻 I’m currently working on all things Azure 
 - 📘 Posting on my blog about Cloud Computing
-- 🔥 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
+- 🔥 I’m currently learning C#, DevOps, and automation using PowerShell and Terraform
 
 
 You can also find me here: 
@@ -32,7 +32,7 @@ You can also find me here:
 <a href="https://www.linkedin.com/in/danielfajardovalenti"><img src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" title="LinkedIn" /></a>
 <a href="https://github.com/daniel-fv"><img src="https://img.icons8.com/material-rounded/50/github.png" title="Github" /></a>
 <a href="https://stackoverflow.com/users/4305517/daniel-fajardo-valenti"><img src="https://img.icons8.com/color/50/4a90e2/stackoverflow.png" title="Stack Overflow"/></a>
-<a href="https://instagram.com/dfv78"><img src="https://img.icons8.com/color/50/instagram.png" title="Instagram"/></a>
+<a href="https://instagram.com/danielfv_photo"><img src="https://img.icons8.com/color/50/instagram.png" title="Instagram"/></a>
 </p>
 
 
