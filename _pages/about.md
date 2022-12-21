@@ -35,16 +35,15 @@ When I'm not working in Azure I like to read, from the latest Stephen King novel
 Hobbies:
 - Playing guitar
 - Listening to podcasts
-- Photography ([Portfolio](https://photos.danielfv.com), [Instagram](https://www.instagram.com/dfv78))
+- Photography ([Portfolio](https://photos.danielfv.com), [Instagram](https://www.instagram.com/danielfv_photo))
 - Did I mention [I love reading](https://www.goodreads.com/review/list/4642546-daniel-fajardo-valenti?shelf=read)? 
 ## What I'm currently doing
 I've always enjoyed learning new things so I'm constantly trying to learn about a technology that's new to me:
 
-- Azure SQL databases (I'm in the process of studying for the certification)
-- DevOps
-- Python
 - C#
 - PowerShell
+- Python
+- DevOps
   
 I'm proud of my certifications, not because I got them but because I loved the journey and they challenged me. Took a lot of dedication, commitment and patience.
 
